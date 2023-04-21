@@ -1,6 +1,4 @@
-# C++ Final Project - Mini Casino
-
-**Hard Deadline: 12pm May 2, 2023 EST.**
+# Mini Casino in C++
 
 ## High-level Ideas - Classes I want to build:
 
